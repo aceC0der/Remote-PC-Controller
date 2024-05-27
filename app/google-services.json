@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814476506958",
+    "project_id": "pc-control-a7861",
+    "storage_bucket": "pc-control-a7861.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814476506958:android:f215b297b16aad07fc101f",
+        "android_client_info": {
+          "package_name": "com.dev_ace_coder.pccontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814476506958-uikc4u6p4kt8km8frooqi42l7t74c8nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV9b5cGBbr4xe77iOBFaystConmEvRuwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814476506958-uikc4u6p4kt8km8frooqi42l7t74c8nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
