@@ -20,10 +20,6 @@ This project enables users to remotely power on and unlock a PC using an Android
 
 1.  **Clone the Repository:**
 
-    bash
-
-    Copy code
-
     `git clone https://github.com/aceC0der/Remote-PC-Controller.git`
 
 2.  **Open in Android Studio:**
